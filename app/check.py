@@ -26,7 +26,7 @@ if not NVIDIA_API_KEY:
 
 # Constants
 STYLE_GUIDE_PATH = Path(__file__).parent / "skrivregler.md"
-SVARTA_LISTAN_PATH = Path(__file__).parent.parent / "svarta_listan.json"
+SVARTA_LISTAN_PATH = Path(__file__).parent / "svarta_listan.json"
 NVIDIA_API_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 
 def load_style_guide():
@@ -211,7 +211,7 @@ def analyze_with_gemma(text, style_guide_rules, lix_score, lix_interpretation):
     
     Här är en sammanfattning av viktiga regler från skrivreglerna:
     
-    {'  '.join(simplified_rules[:15])}  # Limiting to 15 to keep prompt size manageable
+    {'  '.join(simplified_rules[:15])}  
     
     TEXT ATT ANALYSERA:
     {text}
@@ -246,7 +246,7 @@ def analyze_with_gemma(text, style_guide_rules, lix_score, lix_interpretation):
         ],
         "temperature": 0.2,
         "top_p": 0.8,
-        "max_tokens": 2048,
+        "max_tokens": 4096,
         "stream": False
     }
     
