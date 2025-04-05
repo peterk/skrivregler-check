@@ -1,0 +1,667 @@
+[
+  {
+    "avoid": [
+      "anbringa"
+    ],
+    "prefer": [
+      "ofta: sätta upp",
+      "sätta på",
+      "placera",
+      "fästa (på något)"
+    ],
+    "source": "Page 5"
+  },
+  {
+    "avoid": [
+      "angå (i vissa fraser)"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 5"
+  },
+  {
+    "avoid": [
+      "anhängiggöra"
+    ],
+    "prefer": [
+      "väcka",
+      "inleda"
+    ],
+    "source": "Page 5"
+  },
+  {
+    "avoid": [
+      "ankomma"
+    ],
+    "prefer": [
+      "ofta: ska",
+      "ha till uppgift att"
+    ],
+    "source": "Page 5"
+  },
+  {
+    "avoid": [
+      "anmana",
+      "anmaning"
+    ],
+    "prefer": [
+      "uppmana, uppmaning",
+      "ibland: begära, begäran"
+    ],
+    "source": "Page 6"
+  },
+  {
+    "avoid": [
+      "anmoda",
+      "anmodan"
+    ],
+    "prefer": [
+      "ofta: uppmana, uppmaning"
+    ],
+    "source": "Page 6"
+  },
+  {
+    "avoid": [
+      "ansvar (som rubrik)"
+    ],
+    "prefer": [
+      "straffbestämmelser"
+    ],
+    "source": "Page 6"
+  },
+  {
+    "avoid": [
+      "avbida"
+    ],
+    "prefer": [
+      "invänta",
+      "vänta (på)",
+      "avvakta",
+      "ibland: stanna kvar"
+    ],
+    "source": "Page 6"
+  },
+  {
+    "avoid": [
+      "avbidan"
+    ],
+    "prefer": [
+      "väntan"
+    ],
+    "source": "Page 6"
+  },
+  {
+    "avoid": [
+      "avge"
+    ],
+    "prefer": [
+      "ge (bud)",
+      "lämna (anbud, rapport, m.m.)"
+    ],
+    "source": "Page 6"
+  },
+  {
+    "avoid": [
+      "avnämare"
+    ],
+    "prefer": [
+      "användare",
+      "mottagare",
+      "konsument",
+      "kund"
+    ],
+    "source": "Page 6"
+  },
+  {
+    "avoid": [
+      "avskrift"
+    ],
+    "prefer": [
+      "ofta: kopia"
+    ],
+    "source": "Page 6"
+  },
+  {
+    "avoid": [
+      "avsända"
+    ],
+    "prefer": [
+      "ofta: sända",
+      "skicka (i väg)"
+    ],
+    "source": "Page 7"
+  },
+  {
+    "avoid": [
+      "belägen (i vissa fraser)"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 7"
+  },
+  {
+    "avoid": [
+      "belöpa"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 7"
+  },
+  {
+    "avoid": [
+      "bereda"
+    ],
+    "prefer": [
+      "ofta: ge"
+    ],
+    "source": "Page 7"
+  },
+  {
+    "avoid": [
+      "beskaffenhet"
+    ],
+    "prefer": [
+      "ofta: art",
+      "slag",
+      "sort"
+    ],
+    "source": "Page 7"
+  },
+  {
+    "avoid": [
+      "bestrida (i betydelsen 'ansvara för betalning')"
+    ],
+    "prefer": [
+      "täcka",
+      "betala",
+      "bekosta",
+      "stå för"
+    ],
+    "source": "Page 7"
+  },
+  {
+    "avoid": [
+      "besvär (om att överklaga beslut)"
+    ],
+    "prefer": [
+      "överklagande"
+    ],
+    "source": "Page 7"
+  },
+  {
+    "avoid": [
+      "biträde"
+    ],
+    "prefer": [
+      "ofta: hjälp"
+    ],
+    "source": "Page 8"
+  },
+  {
+    "avoid": [
+      "domarvärv"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 8"
+  },
+  {
+    "avoid": [
+      "dröjsmål"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 8"
+  },
+  {
+    "avoid": [
+      "därvid"
+    ],
+    "prefer": [
+      "då",
+      "i det sammanhanget"
+    ],
+    "source": "Page 8"
+  },
+  {
+    "avoid": [
+      "efterge"
+    ],
+    "prefer": [
+      "befria från",
+      "efterskänka"
+    ],
+    "source": "Page 8"
+  },
+  {
+    "avoid": [
+      "efterkomma"
+    ],
+    "prefer": [
+      "lyda",
+      "följa"
+    ],
+    "source": "Page 8"
+  },
+  {
+    "avoid": [
+      "efterlevas"
+    ],
+    "prefer": [
+      "följas"
+    ],
+    "source": "Page 9"
+  },
+  {
+    "avoid": [
+      "efterlevnad"
+    ],
+    "prefer": [
+      "följs"
+    ],
+    "source": "Page 9"
+  },
+  {
+    "avoid": [
+      "efterrättelse"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 9"
+  },
+  {
+    "avoid": [
+      "eljest"
+    ],
+    "prefer": [
+      "annars",
+      "annat",
+      "på annat sätt",
+      "av andra skäl",
+      "i övrigt",
+      "av någon annan anledning"
+    ],
+    "source": "Page 9"
+  },
+  {
+    "avoid": [
+      "envar",
+      "ettvart"
+    ],
+    "prefer": [
+      "var och en",
+      "vart och ett"
+    ],
+    "source": "Page 9"
+  },
+  {
+    "avoid": [
+      "erfara"
+    ],
+    "prefer": [
+      "ofta: få veta"
+    ],
+    "source": "Page 9"
+  },
+  {
+    "avoid": [
+      "erfordra"
+    ],
+    "prefer": [
+      "behövs",
+      "krävs",
+      "är nödvändigt"
+    ],
+    "source": "Page 9"
+  },
+  {
+    "avoid": [
+      "erhålla"
+    ],
+    "prefer": [
+      "ofta: få"
+    ],
+    "source": "Page 10"
+  },
+  {
+    "avoid": [
+      "erinran"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 10"
+  },
+  {
+    "avoid": [
+      "erlägga"
+    ],
+    "prefer": [
+      "ofta: betala"
+    ],
+    "source": "Page 10"
+  },
+  {
+    "avoid": [
+      "foga"
+    ],
+    "prefer": [
+      "lämna (in) (tillsammans med)"
+    ],
+    "source": "Page 10"
+  },
+  {
+    "avoid": [
+      "fråga (i vissa fraser)"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 10"
+  },
+  {
+    "avoid": [
+      "föranleda"
+    ],
+    "prefer": [
+      "ofta: leda till",
+      "motivera"
+    ],
+    "source": "Page 11"
+  },
+  {
+    "avoid": [
+      "föranstalta"
+    ],
+    "prefer": [""],
+    "source": "Page 11"
+  },
+  {
+    "avoid": [
+      "förebringa"
+    ],
+    "prefer": [
+      "lägga fram",
+      "lämna"
+    ],
+    "source": "Page 11"
+  },
+  {
+    "avoid": [
+      "föreligga"
+    ],
+    "prefer": [
+      "ofta: finnas"
+    ],
+    "source": "Page 11"
+  },
+  {
+    "avoid": [
+      "föreskrift (i betydelsen 'villkor')"
+    ],
+    "prefer": [
+      "Beslutet får förenas med villkor om …"
+    ],
+    "source": "Page 11"
+  },
+  {
+    "avoid": [
+      "företa"
+    ],
+    "prefer": [
+      "ofta: göra"
+    ],
+    "source": "Page 11"
+  },
+  {
+    "avoid": [
+      "förete"
+    ],
+    "prefer": [
+      "visa (upp)"
+    ],
+    "source": "Page 11"
+  },
+  {
+    "avoid": [
+      "förfalla"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 12"
+  },
+  {
+    "avoid": [
+      "förfara"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 12"
+  },
+  {
+    "avoid": [
+      "förflyta"
+    ],
+    "prefer": [
+      "ofta: gå"
+    ],
+    "source": "Page 12"
+  },
+  {
+    "avoid": [
+      "förordna"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 12"
+  },
+  {
+    "avoid": [
+      "försorg"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 12"
+  },
+  {
+    "avoid": [
+      "förutskicka"
+    ],
+    "prefer": [
+      "meddela på förhand",
+      "i förväg"
+    ],
+    "source": "Page 13"
+  },
+  {
+    "avoid": [
+      "handha"
+    ],
+    "prefer": [
+      "ofta: ha hand om",
+      "sköta"
+    ],
+    "source": "Page 13"
+  },
+  {
+    "avoid": [
+      "hemställa"
+    ],
+    "prefer": [
+      "ofta: begära",
+      "föreslå"
+    ],
+    "source": "Page 13"
+  },
+  {
+    "avoid": [
+      "hinder"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 13"
+  },
+  {
+    "avoid": [
+      "hörande"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 13"
+  },
+  {
+    "avoid": [
+      "hörsamma"
+    ],
+    "prefer": [
+      "följa",
+      "lyda",
+      "rätta sig efter"
+    ],
+    "source": "Page 13"
+  },
+  {
+    "avoid": [
+      "iaktta (i vissa fraser)"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 13"
+  },
+  {
+    "avoid": [
+      "ifrågasatt",
+      "som ifrågasätts"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 14"
+  },
+  {
+    "avoid": [
+      "ikläda sig"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 14"
+  },
+  {
+    "avoid": [
+      "inhämta"
+    ],
+    "prefer": [
+      "skaffa",
+      "begära in"
+    ],
+    "source": "Page 14"
+  },
+  {
+    "avoid": [
+      "inkomma med"
+    ],
+    "prefer": [
+      "lämna in",
+      "skicka in",
+      "sända över"
+    ],
+    "source": "Page 14"
+  },
+  {
+    "avoid": [
+      "innehålla(s)"
+    ],
+    "prefer": [
+      "ofta: dra(s) av"
+    ],
+    "source": "Page 14"
+  },
+  {
+    "avoid": [
+      "inställa"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 14"
+  },
+  {
+    "avoid": [
+      "jämka"
+    ],
+    "prefer": [
+      "ofta: sänka",
+      "minska",
+      "sätta ned",
+      "ner",
+      "(för)ändra"
+    ],
+    "source": "Page 15"
+  },
+  {
+    "avoid": [
+      "jämlikt"
+    ],
+    "prefer": [
+      "enligt"
+    ],
+    "source": "Page 15"
+  },
+  {
+    "avoid": [
+      "jämte"
+    ],
+    "prefer": [
+      "med",
+      "tillsammans med",
+      "och",
+      "samt",
+      ""
+    ],
+    "source": "Page 15"
+  },
+  {
+    "avoid": [
+      "lagfaren"
+    ],
+    "prefer": [
+      ""
+    ],
+    "source": "Page 15"
+  },
+  {
+    "avoid": [
+      "lagrum"
+    ],
+    "prefer": [
+      "bestämmelse",
+      "paragraf"
+    ],
+    "source": "Page 15"
+  },
+  {
+    "avoid": [
+      "lända"
+    ],
+    "prefer": [
+      "ska gälla",
+      "tillämpas",
+      "verkställas"
+    ],
+    "source": "Page 15"
+  }
+]
